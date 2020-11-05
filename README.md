@@ -50,7 +50,7 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th><a href=""> نظریه زبانها و ماشینها </a></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines"> نظریه زبانها و ماشینها </a></th>
     <th></th>
     <th ></th>
     <th>یک شنبه</th>
@@ -66,7 +66,7 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th><a href=""> طراحی واسط کاربر </a></th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin"> طراحی واسط کاربر </a></th>
     <th></th>
     <th ></th>
     <th>سه شنبه</th>
