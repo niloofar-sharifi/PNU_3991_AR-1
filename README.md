@@ -49,7 +49,7 @@
   </tr>
    <tr>
     <th ></th>
-    <th ></th>
+    <th ><a href=""> نظریه زبانها و ماشینها </a></th>
     <th></th>
     <th></th>
     <th ></th>
@@ -65,7 +65,7 @@
   </tr>
    <tr>
     <th ></th>
-    <th ></th>
+    <th ><a href=""> طراحی واسط کاربر </a></th>
     <th></th>
     <th></th>
     <th ></th>
