@@ -23,8 +23,6 @@
 
 - [JavaScript certificate](https://www.sololearn.com/Certificate/1024-20268273/pdf/)
 
-- [روش پژوهش](https://github.com/ftemeh021/Ravesh-Pazhohesh)
-
 ------------------
 ## Winter Semester Courses 1399/2020
 
