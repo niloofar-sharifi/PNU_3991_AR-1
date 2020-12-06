@@ -26,7 +26,7 @@
 ------------------
 ## Winter Semester Courses 1399/2020
 
-- [روش پژوهش](https://github.com/ftemeh021/Ravesh-Pazhohesh)
+- [ روش پژوهش و ارائه1322010-02](https://github.com/ftemeh021/Ravesh-Pazhohesh)
 
 
 <br>
