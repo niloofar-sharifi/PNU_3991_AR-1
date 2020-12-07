@@ -28,9 +28,7 @@
 
 - [روش پژوهش و ارائه](https://github.com/ftemeh021/Ravesh-Pazhohesh)
 
-
 <br>
-
 
 --------------
 ## روز و ساعت ارائه دروس
