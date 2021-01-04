@@ -30,7 +30,7 @@
 
 - [نظریه زبان‌ها و ماشین‌ها]()
 
-- [ درس مشابه روش پژوهش و ارائه](http://smbidoki.ir/crsdetail.php?crsid=41)
+- [ درس مشابه روش پژوهش و ارائه_کار گروهی](http://smbidoki.ir/crsdetail.php?crsid=41)
 
 <br>
 
