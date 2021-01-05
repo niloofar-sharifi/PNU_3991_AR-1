@@ -23,15 +23,14 @@
 
 ------------------
 ## Winter Semester Courses 1399/2020
+    
+## دروس کارشناسی
 
-- [روش پژوهش و ارائه](https://github.com/ftemeh021/Ravesh-Pazhohesh)
-
-- [نظریه زبان‌ها و ماشین‌ها]()
-
-- [ (درس مشابه روش پژوهش و ارائه_(کار گروهی](http://smbidoki.ir/crsdetail.php?crsid=41)
-
+[1115157_01 نظریه زبان ها و ماشین](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/67_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
 <br>
-
+[1322010_01 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
+<br>
+[1322110_01 طراحی واسط کاربر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC)
 --------------
 ## روز و ساعت ارائه دروس
 
