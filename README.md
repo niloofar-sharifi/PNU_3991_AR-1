@@ -33,7 +33,6 @@
 [1322110_01 طراحی واسط کاربر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC)
 --------------
 ## گروه‌ها
-### فاطمه مرادی
  
 ---
 -  [PNU_3991_AR](https://github.com/ftemeh021/PNU_3991_AR)
