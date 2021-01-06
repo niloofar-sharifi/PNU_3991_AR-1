@@ -8,7 +8,7 @@
 
 ## معرفی دروس مشابه در دانشگاه‌های دیگر
 
-[http://smbidoki.ir/crsdetail.php?crsid=41]
+http://smbidoki.ir/crsdetail.php?crsid=41
 
 --------------
 
