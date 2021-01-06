@@ -1,14 +1,14 @@
 <div dir="rtl">
 
 
-## Research-And-Presentation-Methods
+# Research-And-Presentation-Methods
 
 --------------
 <br>
 
 ## معرفی دروس مشابه در دانشگاه‌های دیگر
 
-[دانشگاه خلیج فارس](http://smbidoki.ir/crsdetail.php?crsid=41)
+- [دانشگاه خلیج فارس](http://smbidoki.ir/crsdetail.php?crsid=41)
 <br>
 
 --------------
