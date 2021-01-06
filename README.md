@@ -31,17 +31,6 @@
 [1322010_01 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
 <br>
 [1322110_01 طراحی واسط کاربر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC)
---------------
-## گروه‌ها
- 
----
--  [PNU_3991_AR](https://github.com/ftemeh021/PNU_3991_AR)
-- [حساب گیت هاب](https://github.com/ftemeh021)
-
-- [رزومه](https://ftemeh021.github.io/ftemeh-resume/)
-
-- [SOP](https://ftemeh021.github.io/SOP/)
-- [JavaScript certificate](https://www.sololearn.com/Certificate/1024-20268273/pdf/)
 
 -----------------
 ## گروه ها
