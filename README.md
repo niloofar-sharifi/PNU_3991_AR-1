@@ -11,9 +11,9 @@
 
 - [PNU_3991_AR](https://github.com/ftemeh021/PNU_3991_AR)
 
-- [حساب گیت هاب](https://github.com/ftemeh021)
+- [Github Page](https://github.com/ftemeh021)
 
-- [رزومه](https://ftemeh021.github.io/ftemeh-resume/)
+- [Resume](https://ftemeh021.github.io/ftemeh-resume/)
 
 - [SOP](https://ftemeh021.github.io/SOP/)
 
