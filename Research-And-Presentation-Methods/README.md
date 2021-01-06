@@ -8,7 +8,7 @@
 
 ## معرفی دروس مشابه در دانشگاه‌های دیگر
 
-#### _دانشگاه خلیج فارس http://smbidoki.ir/crsdetail.php?crsid=41
+#### ۱.دانشگاه خلیج فارس http://smbidoki.ir/crsdetail.php?crsid=41
 
 --------------
 
