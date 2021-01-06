@@ -24,11 +24,11 @@
     
 ## دروس کارشناسی
 
-[1115157_01 نظریه زبان ها و ماشین]()
+[1115157_01 نظریه زبان ها و ماشین](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC)
 <br>
-[1322010_01 روش پژوهش و ارائه]()
+[1322010_01 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC)
 <br>
-[1322110_01 طراحی واسط کاربر]()
+[1322110_01 طراحی واسط کاربر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin#TOC)
 
 -----------------
 ## گروه ها
