@@ -8,7 +8,7 @@
 ## معرفی دروس مشابه در دانشگاه‌های دیگر
 
 - [دانشگاه خلیج فارس](http://smbidoki.ir/crsdetail.php?crsid=41)
-
+- [دانشگاه NWECASTEL در استرالیا](https://libguides.newcastle.edu.au/researchmethods)
 --------------
 
 ## جستجوی منابع دیگر
