@@ -9,10 +9,10 @@
 - []()
 
 # ارائه نوشتاری درس از منابع دیگر با لاتک
-- [241.pdf]()
-- [241.tex]()
-- [242.pdf]()
-- [242.tex]()
+- [241.pdf](https://s16.picofile.com/file/8420569326/241.pdf.html)
+- [241.tex](https://s17.picofile.com/file/8420569218/241.tex.html)
+- [242.pdf](https://s16.picofile.com/file/8420569426/242.pdf.html)
+- [242.tex](https://s16.picofile.com/file/8420569484/242.tex.html)
 - [243.pdf]()
 - [243.tex]()
 - [244.pdf]()
