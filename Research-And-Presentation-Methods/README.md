@@ -3,21 +3,36 @@
 
 # Research-And-Presentation-Methods
 
---------------
+    
+-----------------------
+### دروس مشابه
+ 
+ <table style="width:100%">
+  <tr>
+    <td><a href="http://smbidoki.ir/crsdetail.php?crsid=41">نمونه اول</a></td>
+    <th>ارائه دانشگاه خلیج فارس بوشهر</th>
+    </tr>
+      <tr>
+    <td><a href="https://libguides.gatech.edu/c.php?g=944744&p=6810453">نمونه دوم</a></td>
+        <th style="backgrand-color:red"> ارائه دانشگاه جورجیا</th>
+    </tr>
+  </table>
+    
+-----------------------
+### پایان نامه مربوطه به رشته مهندسی کامپیوتر
 
-## معرفی دروس مشابه در دانشگاه‌های دیگر
+<table style="width:100%">
+  <tr>
+    <td><a href="https://oatd.org/oatd/search?q=id%3A%22oai%3Aetd.ohiolink.edu%3Aosu1587693436870594%22">پایان نامه اول</a></td>
+    <th>کارشناسی ارشد ، مهندسی برق و کامپیوتر ، 2020 ، دانشگاه ایالتی اوهایو</th>
+    </tr>
+      <tr>
+    <td><a href="https://oatd.org/oatd/search?q=id%3A%22handle%3A10012%2F16359%22">پایان نامه دوم</a></td>
+   <th>دانشگاه واترلو</th>
+    </tr>
+  </table>
 
-- [دانشگاه خلیج فارس](http://smbidoki.ir/crsdetail.php?crsid=41)
-- [دانشگاه NWECASTEL در استرالیا](https://libguides.newcastle.edu.au/researchmethods)
---------------
-
-## جستجوی منابع دیگر
-
-- [پایان نامه ارشد دانشگاه ایالتی اوهایو](https://hdl.handle.net/10012/16374)
-  [موضوع : طراحی و ساخت مواد پیشرفته مبتنی بر گرافن برای ابرخازنهای مفهومی نوظهور](https://hdl.handle.net/10012/16374)
-- [پایان نامه ارشد دانشگاه واترلو](https://hdl.handle.net/10012/16359)
-  [موضوع : آزمایش بهتر تجزیه و تحلیل استاتیک](https://hdl.handle.net/10012/16359)
---------------
+------------------
 
 ## ارائه کتبی با لاتک از منابع دیگر به زبان اصلی
 
