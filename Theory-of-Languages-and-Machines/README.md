@@ -13,8 +13,8 @@
 - [241.tex](https://s17.picofile.com/file/8420569218/241.tex.html)
 - [242.pdf](https://s16.picofile.com/file/8420569426/242.pdf.html)
 - [242.tex](https://s16.picofile.com/file/8420569484/242.tex.html)
-- [243.pdf]()
-- [243.tex]()
+- [243.pdf](https://s16.picofile.com/file/8420587418/243.pdf.html)
+- [243.tex](https://s17.picofile.com/file/8420587484/243.tex.html)
 - [244.pdf]()
 - [244.tex]()
 
