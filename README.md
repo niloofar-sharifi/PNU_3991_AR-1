@@ -28,7 +28,7 @@
 
 ## بخش دروس کارشناسی
 - [خلاصه ارزیابی درس روش پژوهش و ارائه](https://github.com/ftemeh021/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/RN_ResearchAndPresentationMethods_CheckList_AR__3991.pdf)
-- [خلاصه ارزیابی درس نظریه زبانها و ماشینها]()
+- [خلاصه ارزیابی درس نظریه زبانها و ماشینها](https://github.com/ftemeh021/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/RN_Theory_of_Languages_and_Machines_checList_AR_3991.pdf)
 - [خلاصه ارزیابی درس طراحی واسط کاربر]()
 ------------------
 
