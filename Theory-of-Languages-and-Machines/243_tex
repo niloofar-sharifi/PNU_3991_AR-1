@@ -1,0 +1,74 @@
+\documentclass [10pt,a4paper]{book}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\begin{document}
+\begin{flushright}
+Regular Expression  \textbf{243}
+\end{flushright}
+\includegraphics[scale=0.7]{2} .Convert the RF $(a+b)^{*}$ abb directly into an DFA.
+\begin{flushleft}
+\textbf{Solution:} The augmented RE is $(a+b)^{*}$ abbt 'The parse tree constructed from the augmented RE in given in Fig. 5.14 .
+The LHS of each node (including the leaf) is the firstpost of that node and the RHS of cach node is the lastpos of that node. The firstpos and lastpos are constructed from the table given previously.
+is considered as $c$, and the $+$ node $a s c_{2}$. The nullable $\left(c_{1}\right)$ is true as $c_{1}$ is a star node. So, the firstpos of the dot node is firstpos(c,) $\cup$ firstpos $\left(c_{2}\right)$ ] Consider the $^{*}$ node. The lastpos of the $^{*}$ node is $\{1,2\},$ and thus the followpos( 1 ) and followpos(2) contain $\{1,2\},$ as \{1,2\} is the firstpos of the $^{*}$ node
+\end{flushleft}
+$$
+\begin{array}{l}
+	\text { followpos }(1)=\{1,2\} \\
+	\text { followpos }(2)=\{1,2\}
+\end{array}
+$$
+
+\begin{center}
+\includegraphics[scale=0.8]{1}
+\end{center}
+\begin{center}
+{Fig.5.14}
+\end{center}
+
+
+Consider the dot node connecting the $*$ node (as $\mathrm{c}_{1}$ ) and ' $\mathrm{a}$ ' with 
+label ' 3 ' $\left(\right.$ as $\left.\mathrm{c}_{2}\right)$. The lastpos of $\mathrm{c}$, contains \{1,2\} and the firstpos of $\mathrm{c}_{2}$ contains $\{3\} .$ So, the followpos(1) and followpos(2) contain \{3\}
+$$
+\begin{array}{l}
+	\text { followpos }(1)=\{1,2,3\} \\
+	\text { followpos }(2)=\{1,2,3\}
+\end{array}
+$$
+Consider the dot node connecting the dot node $\left(\right.$ as $\left.\mathrm{c}_{1}\right)$ and '$ \mathrm{b}$ ' with label ${ }' 4^{\prime}\left(\right.$ as $\left.\mathrm{c}_{2}\right) .$ The lastpos of $\mathrm{c}_{1}$
+contains \{3\} and the firstpos of $\mathrm{c}_{2},$ contains $\{4\} .$ So, the followpos (3) contains \{4\}
+\begin{center}
+$followpos (3)=\{4\}$
+\end{center}
+Consider the dot node connecting the dot node $\left(\right.$ as $\left.\mathrm{c}_{1}\right)$ and $' \mathrm{b} '$  with label ${ }' 5^{\prime}\left(\right.$ as $\left.\mathrm{c}_{2}\right) .$ The lastpos of $\mathrm{c}_{1}$ contains \{4\} and the firstpos of $\mathrm{c}_{2}$ contains $\{5\} .$ Thus, the followpos (4) contains \{5\}
+\begin{center}
+followpos $(4)=\{5\}$
+\end{center}
+Consider the dot node connecting the dot node $\left(\right.$ as $\left.\mathrm{c}_{1}\right)$ and $" \#"$  with label ${ }' 6^{\prime}\left(\right.$ as $\left.\mathrm{c}_{2}\right) .$ The lastpos of $\mathrm{c}_{1}$ contains \{5\} and the firstpos of $\mathrm{c}_{2}$ contains $\{6\} .$ 
+Thus, followpos (5) contains \{6\}
+
+$$
+\begin{array}{l}
+	\text { followpos }(5)=\{6\} \\
+	\text { followpos(6) }=\{\}
+\end{array}
+$$
+The firstpos of the root node is $\{1,2,3\} .$ Mark it as $\mathrm{S}_{1} .$ The RE contains two symbols ' $\mathrm{a}$ ' and ' $\mathrm{b}$ '. ' $\mathrm{a}$ '
+exists in positions $" 1"$  and $ 3$ ', and ' $\mathrm{b}$ ' appears in positions $ "2", "4",$ and $ 5$ '.
+
+
+
+$$
+\begin{array}{c}
+	(a+b)^{*} a b b \# \\
+	1 \quad 23456 \\
+	\delta\left(S_{1}, a\right)=\text { followpos }(1) \cup \text { followpos }(3)=\{1,2,3,4\}
+\end{array}
+$$
+
+
+It is other than $\mathrm{S}_{1}$; therefore, mark it as $\mathrm{S}_{2}$
+$$
+\delta\left(\mathrm{S}_{1}, \mathrm{~b}\right)=\text { followpos }(2)=\{1,2,3\} \text { same as } \mathrm{S}_{1}
+$$
+\end{document}
