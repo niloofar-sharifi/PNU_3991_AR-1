@@ -1,0 +1,77 @@
+\documentclass[10pt,a4paper]{book}
+\usepackage{graphicx}
+ % Requires \usepackage{graphicx}
+ % Requires \usepackage{graphicx}
+
+\begin{document}
+\scriptsize
+
+\begin{flushleft}
+\textsf{\textbf{244 $|$ Introduction to Automata Theory, Formal Languages and Computation}}
+\end{flushleft}
+
+\!\!\!\!\!\!\!\!\!\!Take \qquad $S_{2} = \{1, 2, 3, 4\}$.
+
+\qquad 
+
+$\delta(S_{2}, a) =$ followpos$(1) \cup $followpos$(3) = \{1, 2, 3, 4\} = S_{2}$
+
+$\delta(S_{2}, b) =$ followpos$(2) \cup $followpos$(4) = \{1, 2, 3, 5\} =$ New state. Mark it as $S_{3}$
+
+$\delta(S_{3}, a) =$ followpos$(1) \cup $followpos$(3) = \{1, 2, 3, 4\} = S_{2}$
+
+$\delta(S_{3}, b) =$ followpos$(2) \cup $followpos$(5) = \{1, 2, 3, 6\} =$ New state. Mark it as $S_{4}$
+
+$\delta(S_{4}, a) =$ followpos$(1) \cup $followpos$(3) = \{1, 2, 3, 4\} = S_{2}$
+
+$\delta(S_{4}, b) =$ followpos$(2) = \{1, 2, 3\} = S_{1}$
+
+\quad 
+
+All the states are traversed, and no new state appears. Therefore, it is the final DFA. The transitional
+diagram of the DFA is given is Fig. 5.15.
+
+\begin{figure}[h]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=8cm]{1.1}\\
+\end{figure}
+
+\begin{flushleft}
+\textmd{\textbf{5.6 NFA with e Move and Conversion to DFA by e-Closure Method}}
+\end{flushleft}
+
+\!\!\!\!\!\!\!\!\!If any FA contains any $\varepsilon (null)$ move or transaction, then that FA is called an NFA with $\varepsilon$ moves. An example is shown in Fig. 5.16.
+
+\begin{figure}[h]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=8cm]{1.2}\\
+\end{figure}
+
+\!\!\!\!\!\!\!\!\!\!The previous FAin Fig.5.16contains two null moves. So, the previous FAis an NFA with null move.
+
+\!\!\!\!\!\!\!\!\!\!From the defi nition of an NFA, we know that for an NFA from a single state for a single input the
+ 
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!machine can go to more than one state, $i.e., Q * \Sigma \rightarrow 2^{Q}$, where 2Q is the power set of Q.
+
+\!\!\!\!\!\!\!\!\!\!From a state by getting $\varepsilon$ input , the machine is confined into that state\quad . An FA with null move
+
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!must contain at least one $\varepsilon$ move. For this type of FA for input $\varepsilon$, the machine can go to more than 
+
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!one state.(One is that same state and the another is the $\varepsilon$-transaction next state). So, an FA with $\varepsilon$ 
+
+\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!move can be called as an NFA.
+
+For the previous FA,
+
+$$ \delta(q_{0}, \varepsilon) \rightarrow q_{0} \quad and\quad \delta(q_{0}, \varepsilon) \rightarrow q_{1}$$
+$$\delta(q_{1}, \varepsilon) \rightarrow q_{1} \quad and\quad \delta(q_{1}, \varepsilon) \rightarrow q_{2}$$
+
+
+
+
+
+
+
+\end{document}
