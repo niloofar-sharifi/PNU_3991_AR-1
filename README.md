@@ -23,7 +23,7 @@
 > ارزیابی ها
 
 ## بخش عمومی
-- [خلاصه ارزیابی رزومه و انگیزه](https://github.com/ftemeh021/PNU_3991_AR/blob/main/_General/RN_CV_ChecList_AR_3991.pdf) 
+- [خلاصه ارزیابی رزومه و انگیزه نامه](https://github.com/ftemeh021/PNU_3991_AR/blob/main/_General/RN_CV_ChecList_AR_3991.pdf) 
 - [خلاصه ارزیابی بخش عمومی](https://github.com/ftemeh021/PNU_3991_AR/blob/main/_General/RN_GeneralSection_ChecList_AR_3991.pdf)
 
 ## بخش دروس کارشناسی
