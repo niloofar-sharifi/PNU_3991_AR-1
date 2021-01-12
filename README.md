@@ -17,7 +17,7 @@
 
 - [SOP](https://ftemeh021.github.io/SOP/)
 
-- [JavaScript certificate](https://www.sololearn.com/Certificate/1024-20268273/pdf/)
+- [JavaScript certificate](https://github.com/ftemeh021/PNU_3991_AR/blob/main/JavaScript.pdf)
 
 ------------------
 > ارزیابی ها
