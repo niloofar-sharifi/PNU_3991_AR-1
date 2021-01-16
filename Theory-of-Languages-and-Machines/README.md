@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# Theory-of-Languages-and-Machines
+## Theory-of-Languages-and-Machines
 ---
 
 <br>
