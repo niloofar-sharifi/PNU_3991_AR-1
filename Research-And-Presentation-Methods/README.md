@@ -23,7 +23,7 @@
 
 <table style="width:100%">
   <tr>
-    <td><a href="">پایان نامه اول</a></td>
+    <td><a href="https://github.com/ftemeh021/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/Measurement%20of%20machine%20learning%20performance%20with%20different%20condition%20and%20hyperparameter.pdf">پایان نامه اول</a></td>
     <th>پایان نامه ارشد دانشگاه ایالتی اوهایو با موضوع :Measurement of machine learning performance with different condition and hyperparameter</th>
     </tr>
       <tr>
