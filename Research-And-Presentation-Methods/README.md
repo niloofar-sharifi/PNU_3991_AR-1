@@ -26,9 +26,7 @@
     <th>پایان نامه ارشد دانشگاه ایالتی اوهایو با موضوع :Measurement of machine learning performance with different condition and hyperparameter</th>
     </tr>
       <tr>
-    <td><a href="https://oatd.org/oatd/search?q=id%3A%22handle%3A10012%2F16359%22">پایان نامه دوم</a></td>
-   <th>دانشگاه واترلو</th>
-    </tr>
+    
   </table>
 
 ------------------
